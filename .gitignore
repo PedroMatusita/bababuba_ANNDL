@@ -1,0 +1,9 @@
+# Dados do desafio
+data/
+data/test
+*.zip
+*.png
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
